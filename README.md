@@ -1,11 +1,12 @@
+<!DOCTYPE html>
 <html>
-<h1>
+<head>
 Banking System Project
-</h1>
+</head>
 <ul>
-  <l>Categorize Purchases</l>
-  <l>Track Purchases</l>
-  <l>Create Plans</l>
-  <l>Own multiple account branches for savings, business, investing, and retirement.</l>
+  <li>Categorize Purchases</li>
+  <li>Track Purchases</li>
+  <li>Create Plans</li>
+  <li>Own multiple account branches for savings, business, investing, and retirement.</li>
 </ul>
 </html>
